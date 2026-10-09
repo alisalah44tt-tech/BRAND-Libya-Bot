@@ -1,0 +1,6 @@
+node_modules/
+.env
+brand-data.json
+brand-data.json.tmp
+brand-data.json.corrupt-*
+npm-debug.log*
